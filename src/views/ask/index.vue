@@ -1,7 +1,7 @@
 <template>
-    <view>
+    <div>
         看点
-    </view>
+    </div>
 </template>
 
 <script>

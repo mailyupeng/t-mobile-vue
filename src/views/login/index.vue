@@ -1,7 +1,7 @@
 <template>
-    <view>
+    <div>
         登录
-    </view>
+    </div>
 </template>
 
 <script>

@@ -1,7 +1,7 @@
 <template>
-    <view>
+    <div>
         视频
-    </view>
+    </div>
 </template>
 
 <script>
