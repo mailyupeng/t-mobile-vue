@@ -1,25 +1,20 @@
-# news-mobile
+# t-mobile-vue 开发Vue移动端
 
-## Project setup
+## 项目搭建：1.先安装依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## 安装完依赖之后：2.执行下面命令启动项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## 3.打包项目
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
-## 文档目录结构
+## 4.文档目录结构
 ````
 ├── node_modules              第三方包存储目录
 ├── public                    任何放置在 public 文件夹的静态资源都会被简单的复制，而不经过 webpack。
