@@ -8,7 +8,7 @@ import axios from 'axios';
 
 // axios创建baseURL基础实例
 const request = axios.create({
-    baseURL: ''
+    baseURL: 'http://ttapi.research.itcast.cn/app/'
 })
 
 // 请求拦截器
